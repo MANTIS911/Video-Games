@@ -1,0 +1,20 @@
+p {
+    font-weight: bold;
+
+    border: 2px solid rgb(0, 255, 234);
+    /* Solid, dotted, dashed, double, groove, ridged, inset, outset, none*/
+}
+
+h1 {
+    color: rgb(0, 255, 234);
+
+    background-color: blue;
+}
+
+#para {
+    color: pink;
+}
+
+#para {
+    border: 2px solid rgb(0, 255, 234);
+}
