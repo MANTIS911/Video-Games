@@ -1,12 +1,24 @@
 p {
     font-weight: bold;
-
+    color: rgb(0, 0, 0);
+    font-size: 20px;
     border: 2px solid rgb(0, 255, 234);
     /* Solid, dotted, dashed, double, groove, ridged, inset, outset, none*/
 }
 
-h1 {
-    color: rgb(0, 255, 234);
 
-    background-color: blue;
+:link {
+    color: rgb(229, 255, 0);
+}
+
+body {
+    background-image: url("Minecraft2.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
 }
