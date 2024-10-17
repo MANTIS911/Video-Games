@@ -11,8 +11,32 @@ p {
     color: rgb(229, 255, 0);
 }
 
-body {
+#div2 {
+    background-image: url("Fortnite.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div3 {
     background-image: url("Minecraft2.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div4 {
+    background-image: url("Roblox.png");
 
     background-repeat: no-repeat;
 
