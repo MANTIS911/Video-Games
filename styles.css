@@ -9,6 +9,8 @@ p {
 
 :link {
     color: rgb(229, 255, 0);
+
+    text-shadow: 0px 0px 15px rgb(0, 255, 179);
 }
 
 #div2 {
@@ -33,6 +35,7 @@ p {
     height: 100vh;
 
     background-attachment: fixed;
+
 }
 
 #div4 {
@@ -45,4 +48,48 @@ p {
     height: 100vh;
 
     background-attachment: fixed;
+}
+
+#div5 {
+    background-image: url("LoginPic.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div6 {
+    background-image: url("SignUpPic.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+h1{
+    text-shadow: 0px 0px 6px rgb(255, 0, 212);
+}
+
+h3 {
+    text-shadow: 0px 0px 12px rgb(0, 255, 255);
+}
+
+legend{
+    color: aqua;
+}
+
+label{
+    color: rgb(0, 255, 0);
+}
+
+h5{
+    color: yellow;
 }
