@@ -93,3 +93,11 @@ label{
 h5{
     color: yellow;
 }
+
+::placeholder{
+    color: rgb(17, 0, 255);
+}
+
+input{
+    color: blue;
+}
