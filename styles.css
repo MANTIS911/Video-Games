@@ -106,3 +106,39 @@ input {
     border-radius: 50px;
     border: 10px solid rgb(234, 0, 255);
 }
+
+#div7{
+background-image: url("Crow.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div8 {
+background-image: url("SignUpPic.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div9 {
+background-image: url("RocketLeague.png");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
