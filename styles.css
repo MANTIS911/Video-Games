@@ -142,3 +142,17 @@ background-image: url("RocketLeague.png");
 
     background-attachment: fixed;
 }
+
+
+.input-box{
+
+    width:150px
+    
+}
+
+
+input[type="radio"] {
+
+    accent-color: rgb(1, 255, 1);
+    
+}
